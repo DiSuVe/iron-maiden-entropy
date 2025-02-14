@@ -16,5 +16,5 @@ This project analyzes the entropy of Iron Maiden’s lyrics to explore how their
 - Cleaned and formatted for entropy analysis.  
 
 ## Key Findings  
-1. **Iron Maiden’s lyrical entropy has generally increased over time** 🎶📈  
-2. **Lyrical entropy does not strongly correlate with Spotify streams** 🔍🤘 
+1. **Iron Maiden’s lyrical entropy has generally increased over time** 
+2. **Lyrical entropy does not strongly correlate with Spotify streams** 
